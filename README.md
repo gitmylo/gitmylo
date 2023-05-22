@@ -1,5 +1,7 @@
 # Welcome to my GitHub profile 😎
 
+[Huggingface profile](https://huggingface.co/GitMylo)
+
 [![Followers](https://img.shields.io/github/followers/gitmylo?style=for-the-badge)](https://github.com/gitmylo?tab=followers)
 [![Stars](https://img.shields.io/github/stars/gitmylo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/gitmylo?tab=repositories)
 [![Website](https://img.shields.io/website?down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fgitmylo.github.io%2F)](https://gitmylo.github.io/)
