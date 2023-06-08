@@ -22,6 +22,17 @@ I enjoy a variety of different projects. Recently I have been interested in lear
 When I want to get something done, I will.
 
 ## Recent projects
+### [TavernAI card lib .net](https://github.com/gitmylo/TavernAICardLib)
+I decided to create a library for creating, reading, modifying and saving TavernAI cards/json files.
+
+Features:
+* Loading (`.json`, `.png`, `.webp`, `.jpg`, `.jpeg`)
+* Saving (`.json`, `.png`, `.webp`, `.jpg`, `.jpeg`)
+* Editing cards
+* Creating new cards
+* Converting cards
+* Editing (**Windows only**) or replacing images in cards
+
 ### Bark text-to-speech voice cloning
 After hearing about Bark text-to-speech, I was intrigued. But I kept hearing that voice cloning was not possible. Not of any significant quality, at least.
 
