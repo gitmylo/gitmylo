@@ -19,8 +19,6 @@ I enjoy a variety of different projects. Recently I have been interested in lear
 * Entertainment
 * Cyber-security
 
-When I want to get something done, I will.
-
 ## Recent projects
 ### [TavernAI card lib .net](https://github.com/gitmylo/TavernAICardLib)
 I decided to create a library for creating, reading, modifying and saving TavernAI cards/json files.
