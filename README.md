@@ -1,11 +1,3 @@
-<details>
-<summary>
-  Temporary: Jetbrains OSS license request id (Please ignore if you're not from Jetbrains, this is just for verification.)
-</summary>
-  
-  My Request ID: `28072023/12198927`
-</details>
-
 # Welcome to my GitHub profile 😎
 
 [Huggingface profile](https://huggingface.co/GitMylo)
