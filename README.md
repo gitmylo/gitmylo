@@ -6,6 +6,9 @@
 [![Stars](https://img.shields.io/github/stars/gitmylo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/gitmylo?tab=repositories)
 [![Website](https://img.shields.io/website?down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fgitmylo.github.io%2F)](https://gitmylo.github.io/)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/gitmylo?style=for-the-badge)](https://github.com/sponsors/gitmylo/)
+
+Alternatively, if you want to donate eth, `0x377FdE378b9dEB0A5a0f5cCb09DEF6A53736b817` is my wallet address.
+
 ## Introduction
 Hi, I'm Mylo. I'm a software developer from the Netherlands.
 
