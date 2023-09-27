@@ -22,41 +22,33 @@ I enjoy a variety of different projects. Recently I have been interested in lear
 * Entertainment
 * Cyber-security
 
-## Recent projects
-### [TavernAI card lib .net](https://github.com/gitmylo/TavernAICardLib)
-I decided to create a library for creating, reading, modifying and saving TavernAI cards/json files.
+## Skills (not in any particular order)
 
-Features:
-* Loading (`.json`, `.png`, `.webp`, `.jpg`, `.jpeg`)
-* Saving (`.json`, `.png`, `.webp`, `.jpg`, `.jpeg`)
-* Editing cards
-* Creating new cards
-* Converting cards
-* Editing (**Windows only**) or replacing images in cards
+I am almost entirely self-taught.
 
-### Bark text-to-speech voice cloning
-After hearing about Bark text-to-speech, I was intrigued. But I kept hearing that voice cloning was not possible. Not of any significant quality, at least.
+### Languages I am experienced in writing
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-So I started digging into how Bark works. After a few days of research, I had a good understanding of Bark text-to-speech. I then used that knowledge to figure out what needed to be done in order to clone voices.
+### Frameworks and libraries I have worked with
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![DotNET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 
-I hit a dead end, there was a model that Suno AI (The creators of Bark) has that I don't. Voice cloning wasn't possible without that model. Right?
-
-I then came up with the idea to generate a bunch of audio with Bark. And train on that audio with the data used to create that audio.
-But how would I do that? I had a very basic understanding of AI, I had no idea how neural networks and machine learning worked.
-
-So I took a few days to figure out how basic neural network worked. The basics, weights, biases, activation functions, how activation functions work, and tried to get a rough idea of how I could train a neural network from scratch without any libraries.
-With everything that I learned, I added an implementation for it in a javascript project. The best way to learn is to actually **do** the things you're learning after all.
-
-Once I had gathered enough knowledge, it was time to create a model to train, in order to perform the step required in order to clone voices with Bark.
-So I created a model, and started training. The loss went down quickly, and after just a few minutes of training, it seemed to do pretty well.
-Then I tested it, and who would have guessed? It just worked first try. I had done it!
-While voice cloning still isn't 100% consistent, The quality of voice cloning is unlike any previous voice cloning with Bark. Especially at the speed it does it at.
-
-| Repository                                                                                            | Description                                                                                                                           | Badges                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Audio webui](https://github.com/gitmylo/audio-webui)                                                 | This **GitHub** repo containts a webui I made for audio related neural networks and such.                                             | ![code size](https://img.shields.io/github/languages/code-size/gitmylo/audio-webui?style=flat-square) ![issues](https://img.shields.io/github/issues/gitmylo/audio-webui?style=flat-square) ![pull requests](https://img.shields.io/github/issues-pr/gitmylo/audio-webui?style=flat-square) ![GitHub](https://img.shields.io/github/license/gitmylo/audio-webui?style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/gitmylo/audio-webui?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/gitmylo/audio-webui?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/gitmylo/audio-webui?style=flat-square)                                                                                                                                                                          |
-| [Bark data gen](https://github.com/gitmylo/bark-data-gen)                                             | This **GitHub** repo contains the code I used to create training data for training voice cloning on Bark. **This is a fork of Bark.** | ![code size](https://img.shields.io/github/languages/code-size/gitmylo/bark-data-gen?style=flat-square) ![issues](https://img.shields.io/github/issues/gitmylo/bark-data-gen?style=flat-square) ![pull requests](https://img.shields.io/github/issues-pr/gitmylo/bark-data-gen?style=flat-square) ![GitHub](https://img.shields.io/github/license/gitmylo/bark-data-gen?style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/gitmylo/bark-data-gen?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/gitmylo/bark-data-gen?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/gitmylo/bark-data-gen?style=flat-square)                                                                                                                                                            |
-| [Bark voice cloning HuBERT quantizer](https://github.com/gitmylo/bark-voice-cloning-HuBERT-quantizer) | This **GitHub** repo contains the code for the model I use for voice cloning. Training and running.                                   | ![code size](https://img.shields.io/github/languages/code-size/gitmylo/bark-voice-cloning-HuBERT-quantizer?style=flat-square) ![issues](https://img.shields.io/github/issues/gitmylo/bark-voice-cloning-HuBERT-quantizer?style=flat-square) ![pull requests](https://img.shields.io/github/issues-pr/gitmylo/bark-voice-cloning-HuBERT-quantizer?style=flat-square) ![license](https://img.shields.io/github/license/gitmylo/bark-voice-cloning-hubert-quantizer?style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/gitmylo/bark-voice-cloning-hubert-quantizer?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/gitmylo/bark-voice-cloning-hubert-quantizer?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/gitmylo/bark-voice-cloning-hubert-quantizer?style=flat-square) |
-| [Bark voice cloning HuBERT quantizer model](https://huggingface.co/GitMylo/bark-voice-cloning)        | This **HuggingFace** model repo contains pretrained models for use in voice cloning with Bark.                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [Bark voice cloning training data](https://huggingface.co/datasets/GitMylo/bark-semantic-training)    | This **HuggingFace** dataset repo contains the dataset used to train the pretrained models.                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [Bark voice cloning huggingface space](https://huggingface.co/spaces/GitMylo/bark-voice-cloning)      | This **HuggingFace** space can be used to create a voice history prompt (speaker.npz) for a cloned voice.                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+### Databases I have worked with
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
